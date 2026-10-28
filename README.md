@@ -42,3 +42,4 @@ Neste curso você faz, de verdade, o caminho de toda entrega das disciplinas: um
 
 - **Nome:** Mariana Felipe
 - **Curso:** Análise e Desenvolvimento de Sistemas
+- **Meu site:** https://euuumariif.github.io/minha-primeira-entrega/
